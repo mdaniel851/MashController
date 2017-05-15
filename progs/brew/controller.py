@@ -113,7 +113,7 @@ try:
 
 		#Control section------------------------------------------------------------
 
-		map_pid(pid, herms, last_herms, heater)
+		map_pid( pid, heater )
 
 				
 		if debug_mode:
