@@ -1,0 +1,22 @@
+Thermodynamics of Mashing
+
+Hm = heat capacity of malt = 0.3822 Btu/lb. °F
+Hw = heat capacity of water = 1 Btu/lb. °F
+Tmt= temp. of dry malt, °F
+Tw = temp. of water, °F
+Tma= temp. of mash, °F
+M = weight of malt, lbs.
+W = weight of water, lbs.
+(1 gallon water = approx. 8.3 lbs.)
+
+The equation:
+
+W x Hw x (Tw-Tma) = M x Hm x (Tma-Tmt) 
+
+mass * H * dT = 
+
+Unit Analsys
+
+lb * Btu/lb deg F * deg F = Btu (Energy)
+
+
